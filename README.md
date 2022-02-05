@@ -4,6 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/peperd/landing-api?logo=Github)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/peperd/landing-api.git&left_color=green&right_color=red)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scrapy) 
+![Black](https://img.shields.io/badge/code_style-black-black)
 
 
 This scraper parse list of landed on https://www.landingfolio.com/ 
